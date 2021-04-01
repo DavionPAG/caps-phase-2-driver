@@ -7,7 +7,7 @@
 Author: Davion Garcia
 Partner: Terrence Simms
 
-- [Pull Req 1]()
+- [Pull Req 1](https://github.com/Vektur/caps-phase-2-driver/pull/1)
 - Local Testing: Jest
 
 ## Setup
